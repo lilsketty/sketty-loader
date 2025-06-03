@@ -1,11 +1,3 @@
-if skettyloaded then
-    return
-end
-
-pcall(function()
-    getgenv().skettyloaded = true
-end)
-
 local api = loadstring(
     game:HttpGet('https://sdkapi-public.luarmor.net/library.lua')
 )()
