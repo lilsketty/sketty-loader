@@ -1,632 +1,129 @@
-local y=table.unpack;
-local o,W,n,D,C,p,ba,b,z,j,O
-W,C={[-31019]=-25525,[-24287]=-19025,[-25376]=-31270,[-20305]=7159,[-28779]=-14524,[-14404]=4375,[-9178]=-3076,[-27050]=-31429,[19402]=-10992,[2499]=3054,[-16233]=13498,[-20406]=30120,[-29415]=16134,[32684]=7159,[5800]=-3076,[-13928]=-25525,[-19740]=-10992,[-29365]=-10992,[-17645]=-19025,[-31228]=-19025,[5799]=-19025,[-27826]=3054,[-26140]=3054,[5762]=-10992},function(K)
-    return W[K-9740]
-end
-o=C(-16400)
-repeat
-    while true do
-        if o==17041336715300/-667633172 then
-            j=(function(...)
-                local ua=D('#',...)
-                local t=n(ua,nil);
-                ba({...},1,ua,1,t)
-                return{[1]=t,[2]=ua}
-            end);
-            o=C(-6493);
-            break;
-        elseif o==2727483767502/893085713 then
-            z=(getfenv());
-            o=C(15539);
-        elseif o==-2.9451072519536467e-05*373229192 then
-            D,n,ba=(select),(table.create),(table.move);
-            o=C(-4188);
-        elseif o==-1386790302+1386771277 then
-            b,O,p=(string.char),(string.byte),(bit32 .bxor);
-            o=C(15502);
-        end
-    end
-until o==4678161811300/346581850
-local da,E,k,s,N,qa,d,ma=(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('l\132\173\242.X\198iz\245\203\240\236\207\rx\128\182\240*A\194ep\228\194\243\231\203\31~','4\179\198\164\28\54\151]\t\167\242\146\161\254w'),(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\26\185\131/\157\199H\160\133\156\241Fj\134>\136\155\144\238!\132\0\168\153;\139\143I\236\153\154\187Sn\150<\140\129\147\164+\152','r\205\247_\238\253g\143\246\247\148\50\30\255\19\224\238\242\192N\234'),(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('M \180\245\241\237\130\21\te_\26Y\29\254\239}Q\226\232\247\246\158\30^\25V\18^5\202\201','.d\218\186\197\161\239L1Q\24V\f^\179\171'),z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\161\140\171\136','\198\237')][(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\153\220\206R)\172\207\211b)','\222\185\186\1L')](z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\161\140\171\136','\198\237')],(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('EH\238\54\208hN\236/\224h','\r<\154F\131')),z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\137\129\131\133','\238\224')][(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('o\25\251X\153Z\n\230h\153','(|\143\v\252')](z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\137\129\131\133','\238\224')],(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\168D\v\215\235V{\161\171\147E\0\197\224Ea\177\188\159','\250&s\150\133\55\23\216\223')),z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\208\218\205','\163')]and z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('%/8','V')][(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\136\193\a\143\193\5\142','\250\164v')],z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\20\53>\201\240\163\25\48?\220\220\165','|AJ\185\175\209')]or(z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\28T\0P','t ')]and z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('u\224i\228','\29\148')][(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('\232\149\142\239\149\140\238','\154\240\255')]),z[(function(U,l)
-    local la=''
-    for ra=0,#U-1 do
-        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-    end
-    return la
-end)('t\28\134s\28\132r','\6y\247')]
-local function fa(F)
-    local R,na,e,B,_a,f
-    R,B={[-18189]=-10385,[-21125]=15784,[-9480]=18272,[-11482]=22097,[7402]=-26896,[25087]=26399,[31482]=-5264,[-18644]=-2968,[-19053]=3339,[7178]=14911,[4630]=4897,[1612]=18272,[-1586]=14541,[14837]=14541,[-3067]=29052,[-19065]=14541,[-27237]=-19039,[-667]=18272,[24315]=18272,[-22483]=-26745,[25769]=30148,[-31175]=-26896,[28860]=29052,[-6191]=14541,[-16706]=14541,[13937]=14541,[18961]=14541,[27313]=14541,[-22101]=14541},function(ka)
-        return R[ka- -29058]
-    end
-    _a=B(-3289)
-    repeat
-        while true do
-            if _a==-1586311568+1586308600 then
-                na='l\197\196\206\23-+~\189\175\v\n$f\216\140N\144\205\141\214/T\141r\141\48\242T\202\48g\218\201J\161\54\168'
-                _a=B(-51541)
-            elseif _a==-1790923192- -1790904153 then
-                return qa(F)
-            elseif _a==-35761540732044/1492800999 then
-                f='\"\170\228\189b][\17\207\219nn\4.\140\216\30\176\191\232\167Z1\254\6\173V\135:\169D\14\181\167j\199Y\221\2\161\234\238B^N^\220\193+o\\\3\187\249:\255\191\173\161F \229R\197d\166\4\234C\18\170\185%\211B\134'
-                _a=B(-47702)
-            elseif _a==-2037299214- -2037329362 then
-                if not(qa)then
-                    _a=B(-21880)
-                    break
-                else
-                    _a=B(-56295)
-                    break
-                end
-                _a=B(-48123)
-            elseif _a==-56738570650768/2109554233 then
-                e='\242\186\229\167\229'
-                _a=B(-40540)
-            elseif _a==-3264673538790/-666668070 then
-                e=z[e]
-                _a=547594735+-547618691
-            elseif _a==4957215033160/332453560 then
-                if d then
-                    _a=B(-3971)
-                    break
-                elseif not(ma)then
-                    _a=B(-60233)
-                    break
-                else
-                    _a=B(-47247)
-                    break
-                end
-                _a=B(-10097)
-            elseif _a==-31081302+31054557 then
-                f=j((function(U,l)
-                    local la=''
-                    for ra=0,#U-1 do
-                        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                    end
-                    return la
-                end)(f,na))
-                _a=21388636248/-509253244
-            elseif _a==677658264+-677643723 then
-                _a=B(-50183);
-                break;
-            elseif _a==-6694501438352/1271751793 then
-                e=(function(U,l)
-                    local la=''
-                    for ra=0,#U-1 do
-                        la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                    end
-                    return la
-                end)(e,f)
-                _a=B(-24428)
-            elseif _a==546018881-545996784 then
-                f='\151\200'
-                _a=B(2424)
-            elseif _a==-653953729+653980128 then
-                return d(F)
-            elseif _a==-2145212335520/206568352 then
-                return ma(F)
-            elseif _a==1073313262+-1073313304 then
-                e=e(y(f[1],1,f[2]))
-                _a=B(-1745)
-            end
-        end
-    until _a==8198312369624/519406511
-end
-local function ea()
-    local ga,ha=z[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\196\24c:\194\30~)','\176w\16N')](z[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\128\167\138\163','\231\198')][(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\178\129\19\144\169\26','\245\224~')]),N[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('[\vC\128\\u\vY\183yx','\28n7\195\48')](N)
-    local w=z[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)("\142\'\\\b\136!A\27",'\250H/|')](ha)
-    local r={[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)(')v\179+^\186','N\23\222')]=ga,[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('YWK','2')]=k,[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\229\232\228\251','\141\159')]=w}
-    local aa=s[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\180\28B)\244\144,b\3\212','\254O\rg\177')](s,r)
-    local S={[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('|[E',')')]=E,[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\129\15\175\164\5\191','\204j\219')]=(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\247\237\244\246','\167\162'),[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\235\144\r\199\144\30\208','\163\245l')]={[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)(' \170;u\14\3\23\232\1x\27\b','c\197U\1km')]=(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\144\217Ho\236\254\198\253\152\198V,\239\238\200\231','\241\169\56\3\133\157\167\137'),[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)("\'\20\185\19\189\55,\\\187\17\177n",'_9\216c\212\26')]=da},[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('3\228\21\242','q\139')]=aa}
-    local pa,ia=z[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\206\217\223\214\210','\190\186')](function()
-        return fa(S)
-    end)
-    if not(not pa)then
-    else
-        local q,h,Z,Y,V,L,P
-        V,P={[-13084]=7308,[19760]=-9854,[19537]=-29587,[23498]=951,[-2814]=-27919,[-18397]=30269,[4068]=13431,[-14933]=19216,[3224]=8884,[21203]=7308,[-20470]=-29587},function(oa)
-            return V[oa+6904]
-        end
-        Z=P(-27374)
-        repeat
-            while true do
-                if Z==-808029198- -808044133 then
-                    Y='h\166Z\0J\17\239\169\r\169\135\166\0\134ap\f\2\227\180\29\168\206\216'
-                    Z=P(-25301)
-                elseif Z==-41788592835166/1496779714 then
-                    Y=y(Y[1],1,Y[2])..y(h[1],1,h[2])
-                    Z=P(-2836)
-                elseif Z==-1.3680345287805676e-05*-2044100453 then
-                    h=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(h,q))
-                    Z=P(16594)
-                elseif Z==-29143924940358/-962830782 then
-                    h=' \242\14Pjc\138\216x\204\244\210'
-                    Z=-848317545- -848317924
-                elseif Z==-1621684789- -1621665005 then
-                    h=j(h(ia))
-                    Z=P(-9718)
-                elseif Z==850688942-850698796 then
-                    h='\185\1\241\196\191\a\236\215'
-                    Z=1.1612716453035355e-05*-1251042343
-                elseif Z==22817571474135/-771202605 then
-                    L='\228\181\243\168\243'
-                    Z=19662688433514/804068391
-                elseif Z==-51572823- -51573774 then
-                    h=z[y(h[1],1,h[2])]
-                    Z=-2.102493479475249e-05*940977948
-                elseif Z==-1107884018+1107908472 then
-                    Y='\129\199'
-                    Z=897049653-897017882
-                elseif Z==-74578743+74610514 then
-                    L=(function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(L,Y)
-                    Z=-2.4825838451807282e-05*1051082325
-                elseif Z==1481424817-1481450911 then
-                    L=z[L]
-                    Z=-1770041412+1770056347
-                elseif Z==1925533988+-1925526680 then
-                    Z=P(-21837);
-                    break;
-                elseif Z==-1026602889+1026603268 then
-                    Y=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(Y,h))
-                    Z=P(12856)
-                elseif Z==5.626940607990468e-05*-258186482 then
-                    q='\205n\130\176'
-                    Z=1255699686-1255671722
-                elseif Z==362656569-362643138 then
-                    L=L(Y)
-                    Z=P(14299)
-                end
-            end
-        until Z==-617254091+617273307
-    end
-    local J,ca=ia[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\194\177S\187S\226\134]\171C','\145\197\50\207&')]or ia[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\130\153\135\133\152\149','\241\237\230')],ia[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\188\230\154\240','\254\137')]or ia[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\27\28\29\n','ys')]
-    if not(J~=(-193.54465528554755/1843647419)*(1.479700491740658*-1287516681))then
-    else
-        local H,u,c,m,T,a,ta,v,x
-        ta,c={[-19171]=12606,[-4708]=-14911,[-10634]=7952,[21542]=-31140,[19593]=20003,[16426]=-31140,[-4870]=-31140,[-19704]=-6935,[-19838]=-6243,[9145]=-27058,[26027]=11072,[24549]=-4027,[-29805]=-31140,[16401]=-31140,[14151]=-31140,[2505]=-13014,[-4884]=12606},function(i)
-            return ta[i- -19041]
-        end
-        u=c(-16536)
-        repeat
-            while true do
-                if u==0.0014700511668972044*-5528379 then
-                    m=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(m,v))
-                    u=1135745510-1135719863
-                elseif u==2.3220080287388518e-05*480317030 then
-                    x=j(x(ca))
-                    u=c(-23925)
-                elseif u==-1386004337- -1385991323 then
-                    x='\189\56\210+\246\165%\218!\226'
-                    u=2038956715+-2038936875
-                elseif u==1289791295-1289809516 then
-                    v='p\176\179\177\r\183X\242\234t\128\217\169\145\183i\156'
-                    u=13297554446148/-1636219324
-                elseif u==2.2528435034989032e-05*-1235549649 then
-                    x=x(m)
-                    u=c(-4890)
-                elseif u==-110446832769/404567153 then
-                    H='*3\180\211'
-                    u=-2602471595304/309523263
-                elseif u==2.3760912477871643e-05*-329069854 then
-                    x=(function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(x,m)
-                    u=-20574930081360/-1188615256
-                elseif u==-508279500+508248360 then
-                    return a()
-                elseif u==14958289736656/1881072653 then
-                    m=y(m[1],1,m[2])..y(v[1],1,v[2])
-                    u=-252927478- -252899643
-                elseif u==-7716399598456/917744957 then
-                    v=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(v,H))
-                    u=-28345826091904/924189824
-                elseif u==-425421123666/-33747511 then
-                    a,T=y(x[1],1,x[2]);
-                    if not(not a)then
-                        u=c(-2640)
-                        break
-                    else
-                        u=c(5508)
-                        break
-                    end
-                    u=c(-2615)
-                elseif u==-1.1778847199570198e-05*-1469583543 then
-                    x=z[x]
-                    u=-11409932726880/995631128
-                elseif u==-34407825222609/-1281626447 then
-                    m='=-'
-                    u=-986576407- -986568588
-                elseif u==1211033872-1211032593 then
-                    x=z[y(x[1],1,x[2])]
-                    u=-63679348+63690501
-                elseif u==1035334768-1035314765 then
-                    v=j(v(T))
-                    u=c(-29675)
-                elseif u==0.00046623484936707715*55008758 then
-                    v='^\\\199\167XZ\218\180'
-                    u=-521908736622/1911753614
-                elseif u==-329787512+329756841 then
-                    v=z[y(v[1],1,v[2])]
-                    u=c(552)
-                elseif u==-1.4451712979458414e-05*-1372847636 then
-                    m='\209W\179O\133'
-                    u=c(-38745)
-                elseif u==-1849178374- -1849174347 then
-                    x='X_OBO'
-                    u=-5.4010186650731458e-05*-497072898
-                elseif u==-924622223+924615288 then
-                    x=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(x,m))
-                    u=-4.0318469760805649e-06*-317224341
-                elseif u==-253476906- -253465446 then
-                    m='6\209\218\221h\211x\134\133T\227\182\196\225\222\5\249P\213\193\195b\197x\128\143\a\240\182\199\226\210S\150'
-                    u=665086514-665104735
-                end
-            end
-        until u==735703441-735702757
-    end
-    local ja,M=z[(function(U,l)
-        local la=''
-        for ra=0,#U-1 do
-            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-        end
-        return la
-    end)('\202at\134\251\210||\140\239','\166\14\21\226\136')](ca)
-    if not(not ja)then
-    else
-        local Q,A,X,sa,_,G,I
-        X,A={[-31933]=-25238,[-17148]=25150,[8152]=20098,[3753]=25267,[-6755]=14119,[-19553]=-16297,[6176]=16847,[-8379]=2470,[-7215]=17864,[-16819]=5510,[-18488]=-22371,[11776]=-9242,[-30650]=5510},function(g)
-            return X[g+-24337]
-        end
-        sa=A(36113)
-        repeat
-            while true do
-                if sa==1510165595-1510145497 then
-                    I=I(_)
-                    sa=A(-6313)
-                elseif sa==7510935480074/-812695897 then
-                    I=' R7O7'
-                    sa=-1.6267390797448501e-06*1676359801
-                elseif sa==-1949264509+1949261782 then
-                    _='E '
-                    sa=4.3815619612279426e-05*668483072
-                elseif sa==1.3422155404893453e-05*-1880323930 then
-                    I=z[I]
-                    sa=A(17122)
-                elseif sa==9235205423149/-566681317 then
-                    Q=z[y(Q[1],1,Q[2])]
-                    sa=-11324247212040/-729185268
-                elseif sa==19911602270940/679808886 then
-                    I=(function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(I,_)
-                    sa=A(-7596)
-                elseif sa==-0.00018672504327562871*-49168552 then
-                    Q='+\208\237\172-\214\240\191'
-                    sa=A(7189)
-                elseif sa==-697599966- -697617830 then
-                    _='!\a\6\165\254\135\141\160\54\214\151\203\223n\145\6\197\bn\2\18\26\187\245\134\201\244\21\131\149\132\193}\138\3\208\\&m'
-                    sa=32618580-32593249
-                elseif sa==-1643771591+1643796741 then
-                    G='_\191\158\216'
-                    sa=A(17582)
-                elseif sa==6.9673747856875933e-06*2026444742 then
-                    Q=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(Q,G))
-                    sa=A(4784)
-                elseif sa==1554799310+-1554782463 then
-                    _=j((function(U,l)
-                        local la=''
-                        for ra=0,#U-1 do
-                            la=la..b(p(O(U,ra+1),O(l,ra%#l+1)))
-                        end
-                        return la
-                    end)(_,Q))
-                    sa=-5.347522149572456e-06*-1716869934
-                elseif sa==-880118642+880121112 then
-                    _=y(_[1],1,_[2])..y(Q[1],1,Q[2])
-                    sa=A(32489)
-                elseif sa==-9.2583076642972728e-06*-595141164 then
-                    sa=A(28090);
-                    break;
-                elseif sa==0.00060210364283281312*42070830 then
-                    Q='gfo\201\155\227\173\212Y\246\244\164\178\30\248j\160(\28'
-                    sa=A(30513)
-                elseif sa==-9821029853910/-632390847 then
-                    Q=j(Q(M))
-                    sa=A(15958)
-                end
-            end
-        until sa==-1833133739- -1833159006
-    end
-    return ja()
-end;
-ea()
+local Players   = game:GetService("Players")
+local player    = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "NoOverlayPopup"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = playerGui
+
+local container = Instance.new("Frame")
+container.Name = "Container"
+container.Size = UDim2.new(0.5, 0, 0.45, 0)
+container.Position = UDim2.new(0.5, 0, 0.5, 0)
+container.AnchorPoint = Vector2.new(0.5, 0.5)
+container.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+container.BorderSizePixel = 0
+container.Parent = screenGui
+
+local containerCorner = Instance.new("UICorner")
+containerCorner.CornerRadius = UDim.new(0, 12)
+containerCorner.Parent = container
+
+local containerStroke = Instance.new("UIStroke")
+containerStroke.Color = Color3.fromRGB(70, 70, 85)
+containerStroke.Thickness = 2
+containerStroke.Parent = container
+
+local padding = Instance.new("UIPadding")
+padding.PaddingLeft   = UDim.new(0, 50)
+padding.PaddingRight  = UDim.new(0, 50)
+padding.PaddingTop    = UDim.new(0, 48) 
+padding.PaddingBottom = UDim.new(0, 16)
+padding.Parent = container
+
+local listLayout = Instance.new("UIListLayout")
+listLayout.Parent = container
+listLayout.SortOrder = Enum.SortOrder.LayoutOrder
+listLayout.Padding = UDim.new(0, 40)
+
+local closeButton = Instance.new("TextButton")
+closeButton.Name = "CloseButton"
+closeButton.Text = "X"
+closeButton.Font = Enum.Font.GothamBold
+closeButton.TextSize = 40
+closeButton.TextColor3 = Color3.fromRGB(200, 80, 80)
+closeButton.BackgroundTransparency = 1
+closeButton.Size = UDim2.new(0, -25, 0, -20)    
+closeButton.Position = UDim2.new(0, 16, 0, 16)  
+closeButton.ZIndex = 2                       
+closeButton.Parent = container
+
+closeButton.MouseEnter:Connect(function()
+    closeButton.TextColor3 = Color3.fromRGB(220, 100, 100)
+end)
+closeButton.MouseLeave:Connect(function()
+    closeButton.TextColor3 = Color3.fromRGB(200, 80, 80)
+end)
+
+local titleLabel = Instance.new("TextLabel")
+titleLabel.Name = "Title"
+titleLabel.Text = "Get your FREE key in our discord"
+titleLabel.Font = Enum.Font.GothamBlack
+titleLabel.TextSize = 40
+titleLabel.TextColor3 = Color3.fromRGB(240, 240, 240)
+titleLabel.BackgroundTransparency = 1
+titleLabel.Size = UDim2.new(1, 0, 0, 48)       
+titleLabel.TextWrapped = true
+titleLabel.TextXAlignment = Enum.TextXAlignment.Center
+titleLabel.LayoutOrder = 1
+titleLabel.Parent = container
+
+local subtitleLabel = Instance.new("TextLabel")
+subtitleLabel.Name = "Subtitle"
+subtitleLabel.Text = "Sorry, please join our discord to start using the script. Once there, you can enjoy FREE access to our 30+ script library. Thanks for helping support our free hub."
+subtitleLabel.Font = Enum.Font.Gotham
+subtitleLabel.TextSize = 25
+subtitleLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+subtitleLabel.BackgroundTransparency = 1
+subtitleLabel.Size = UDim2.new(1, 0, 0, 100)
+subtitleLabel.TextWrapped = true
+subtitleLabel.TextXAlignment = Enum.TextXAlignment.Center
+subtitleLabel.TextYAlignment = Enum.TextYAlignment.Top
+subtitleLabel.LayoutOrder = 2
+subtitleLabel.Parent = container
+
+local buttonsFrame = Instance.new("Frame")
+buttonsFrame.Name = "ButtonsContainer"
+buttonsFrame.Size = UDim2.new(1, 0, 0, 56) 
+buttonsFrame.BackgroundTransparency = 1
+buttonsFrame.LayoutOrder = 3
+buttonsFrame.Parent = container
+
+local hLayout = Instance.new("UIListLayout")
+hLayout.Parent = buttonsFrame
+hLayout.FillDirection = Enum.FillDirection.Horizontal
+hLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+hLayout.SortOrder = Enum.SortOrder.LayoutOrder
+hLayout.Padding = UDim.new(0, 0)        
+
+local button1 = Instance.new("TextButton")
+button1.Name = "CopyLink1"
+button1.Text = "Copy Discord Link"
+button1.Font = Enum.Font.GothamSemibold
+button1.TextSize = 25
+button1.TextColor3 = Color3.fromRGB(240, 240, 240)
+button1.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+button1.BorderSizePixel = 0
+button1.Size = UDim2.new(0, 300, 1, 0)        
+button1.LayoutOrder = 1
+button1.Parent = buttonsFrame
+
+local btn1Corner = Instance.new("UICorner")
+btn1Corner.CornerRadius = UDim.new(0, 10)
+btn1Corner.Parent = button1
+button1.MouseEnter:Connect(function()
+    button1.BackgroundColor3 = Color3.fromRGB(80, 80, 100)
+end)
+
+button1.MouseLeave:Connect(function()
+    button1.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+end)
+
+button1.MouseButton1Click:Connect(function()
+    setclipboard("https://discord.gg/x2W8mbvJBU")
+end)
+
+closeButton.MouseButton1Click:Connect(function()
+    screenGui:Destroy()
+end)
