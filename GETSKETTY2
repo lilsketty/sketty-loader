@@ -43,7 +43,7 @@ if status.code == 'KEY_VALID' then
 end
 
 local Window = Library:CreateWindow({
-	Title = "Lil Skettys Emporium",
+	Title = "Sketty Script 2",
 	Footer = discord_link,
 	NotifySide = "Right",
 	ShowCustomCursor = false,
