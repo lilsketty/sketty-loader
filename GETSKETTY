@@ -81,23 +81,12 @@ Tabs.Key:AddKeyBox(function(_, ReceivedKey)
 end)
 
 Tabs.Key:AddButton({
-    Text = "Get Key (Linkvertise)",
+    Text = "Get Key",
     Func = function()
-        setclipboard('https://ads.luarmor.net/get_key?for=Lil_Skettys_Emporium-YgsLsSacLsra')
+        setclipboard('https://ads.luarmor.net/get_key?for=Lil_Skettys_Emporium-YBfmdEDtlRlw')
         Library:Notify({
-            Title = "Linkvertise has been copied!",
-            Description = "Complete the link to get Key."
-        }, 4)
-    end,
-})
-
-Tabs.Key:AddButton({
-    Text = "Get Key (Lootlab)",
-    Func = function()
-        setclipboard('https://ads.luarmor.net/get_key?for=Lil_Skettys_Emporium-MdBlViqVcJDn')
-        Library:Notify({
-            Title = "LootLab has been copied!",
-            Description = "Complete the link to get Key."
+            Title = "Key link has been copied!",
+            Description = "Paste the link into your browser, then complete the steps to unlock the key."
         }, 4)
     end,
 })
