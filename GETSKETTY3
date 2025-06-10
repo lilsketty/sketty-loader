@@ -37,7 +37,7 @@ MainTab:CreateButton({
 MainTab:CreateButton({
     Name = "Script 3 (120 Games)",
     Callback = function()
-        loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/lilsketty/sketty-loader/refs/heads/main/GETSKETTY2"))()
+        loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/lilsketty/sketty-loader/refs/heads/main/GETSKETTY4"))()
         Rayfield:Destroy()
     end
 })
@@ -48,7 +48,6 @@ MainTab:CreateParagraph({
     Title = "Join Our Discord For More Info.",
     Content = "You key is valid for both scripts. You can get the full list of supported games for each script in oru discord. Join our discord if you need help or you want to access the script directly (bypass this gui)"
 })
-https://github.com/lilsketty/sketty-loader/blob/main/GETSKETTY4
 
 MainTab:CreateButton({
     Name = "Copy Discord Link",
