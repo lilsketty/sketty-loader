@@ -53,5 +53,24 @@ MainTab:CreateButton({
     Name = "Copy Discord Link",
     Callback = function()
         setclipboard("discord.gg/x2W8mbvJBU")
+        Rayfield:Notify({
+           Title = "Discord Link Copied",
+           Content = "Paste this link into your browser.",
+           Duration = 6.5,
+           Image = 96265482350413,
+        })
+    end
+})
+
+MainTab:CreateButton({
+    Name = "Copy Key Link",
+    Callback = function()
+        setclipboard("https://ads.luarmor.net/get_key?for=Lil_Skettys_Emporium-YBfmdEDtlRlw")
+        Rayfield:Notify({
+           Title = "Key Link Copied",
+           Content = "Paste this link into your browser.",
+           Duration = 6.5,
+           Image = 96265482350413,
+        })
     end
 })
