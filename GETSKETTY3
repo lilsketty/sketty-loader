@@ -18,7 +18,7 @@ local MainTab = Window:CreateTab("Main", "home")
 MainTab:CreateSection("Scripts")
 
 MainTab:CreateButton({
-    Name = "Script 1 (30 Games)",
+    Name = "Script 1 (40 Games)",
     Callback = function()
         loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/lilsketty/sketty-loader/refs/heads/main/GETSKETTY"))()
         Rayfield:Destroy()
